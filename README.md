@@ -1,2 +1,2 @@
-# Asyn_Coding
+# Functional_Programming
 Created with CodeSandbox
